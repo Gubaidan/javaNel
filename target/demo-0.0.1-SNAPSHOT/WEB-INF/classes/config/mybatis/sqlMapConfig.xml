@@ -9,6 +9,7 @@
         <!-- 批量扫描别名 -->
         <package name="cn.demo.ssm.po"/>
     </typeAliases>
+    </typeAliases>
 
     <!-- 配置mapper
     由于使用spring和mybatis的整合包进行mapper扫描，这里不需要配置了。
