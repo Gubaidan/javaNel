@@ -18,6 +18,11 @@ public class RecyclelogoExample {
         oredCriteria = new ArrayList<Criteria>();
         oredCriteria = new ArrayList<Criteria>();
         oredCriteria = new ArrayList<Criteria>();
+        oredCriteria = new ArrayList<Criteria>();
+        oredCriteria = new ArrayList<Criteria>();
+        oredCriteria = new ArrayList<Criteria>();
+        oredCriteria = new ArrayList<Criteria>();
+        oredCriteria = new ArrayList<Criteria>();
     }
 
     public void setOrderByClause(String orderByClause) {
